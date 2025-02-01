@@ -1,4 +1,5 @@
 ## Hi there 👋
+🔭 I’m currently working on a project that’s really important to me – a platform for fans of the Empyrean series to connect, share theories, and discuss the lore. As an enthusiastic fan myself, I’m excited to create a space where we can all dive deeper into the world of Empyrean!
 
 <!--
 **sweet-nes5/sweet-nes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
